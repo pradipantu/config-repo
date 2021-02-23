@@ -1,4 +1,4 @@
 server:
-  email: Refresh Scope updated configserverservicename@javabycode.com
-  ip: 127.0.0.1
-  path: /localhost
+  email: Refresh Scopeconfigserverservicename@javabycode.com
+  ip: 127.0.0.1:8080
+  path: /localhost/config-repo
