@@ -1,4 +1,4 @@
 server:
-  email: RefreshScope.testconfigserverservicename@javabycode.com
+  email: RefreshScope.configserverservicename@javabycode.com
   ip: 127.0.0.1:8080
   path: /localhost/config-repo
